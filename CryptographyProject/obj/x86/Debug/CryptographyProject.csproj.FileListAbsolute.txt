@@ -1,0 +1,16 @@
+C:\Users\alexclp\AppData\Local\Temporary Projects\CryptographyProject\bin\Debug\CryptographyProject.exe
+C:\Users\alexclp\AppData\Local\Temporary Projects\CryptographyProject\bin\Debug\CryptographyProject.pdb
+C:\Users\alexclp\AppData\Local\Temporary Projects\CryptographyProject\obj\x86\Debug\CryptographyProject.LoginForm.resources
+C:\Users\alexclp\AppData\Local\Temporary Projects\CryptographyProject\obj\x86\Debug\CryptographyProject.Properties.Resources.resources
+C:\Users\alexclp\AppData\Local\Temporary Projects\CryptographyProject\obj\x86\Debug\CryptographyProject.csproj.GenerateResource.Cache
+C:\Users\alexclp\AppData\Local\Temporary Projects\CryptographyProject\obj\x86\Debug\CryptographyProject.exe
+C:\Users\alexclp\AppData\Local\Temporary Projects\CryptographyProject\obj\x86\Debug\CryptographyProject.pdb
+C:\work\C#\CryptographyProject\CryptographyProject\obj\x86\Debug\CryptographyProject.exe
+C:\work\C#\CryptographyProject\CryptographyProject\obj\x86\Debug\CryptographyProject.pdb
+C:\work\C#\CryptographyProject\CryptographyProject\bin\Debug\UserDatabase.sdf
+C:\work\C#\CryptographyProject\CryptographyProject\bin\Debug\CryptographyProject.exe.config
+C:\work\C#\CryptographyProject\CryptographyProject\bin\Debug\CryptographyProject.exe
+C:\work\C#\CryptographyProject\CryptographyProject\bin\Debug\CryptographyProject.pdb
+C:\work\C#\CryptographyProject\CryptographyProject\obj\x86\Debug\CryptographyProject.LoginForm.resources
+C:\work\C#\CryptographyProject\CryptographyProject\obj\x86\Debug\CryptographyProject.Properties.Resources.resources
+C:\work\C#\CryptographyProject\CryptographyProject\obj\x86\Debug\CryptographyProject.csproj.GenerateResource.Cache
